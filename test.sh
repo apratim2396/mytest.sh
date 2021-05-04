@@ -1,7 +1,9 @@
-echo "# mytest.sh" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/apratim2396/mytest.sh.git
-git push -u origin main
+
+echo  "sec changes this is test data"
+date
+cal
+echo "bye"
+echo "new code added"
+echo "github trigger auto"
+echo "final1"
+echo "bye ybe"
